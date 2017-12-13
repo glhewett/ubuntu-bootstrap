@@ -1,8 +1,12 @@
+#!/bin/sh
+
 apt-get install -y \
-  vim \
-  git \
-  tmux \
+  build-essential \
   curl \
-  wget \
+  git \
   openssh-server \
-  build-eseential
+  tmux \
+  vim \
+  wget \
+  silversearcher-ag \
+  zsh
