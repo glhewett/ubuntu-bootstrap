@@ -9,4 +9,8 @@ apt-get install -y \
   vim \
   wget \
   silversearcher-ag \
-  zsh
+  zsh \
+  rcm \
+  ca-certificates \
+  gnupg \
+  lsb-release
